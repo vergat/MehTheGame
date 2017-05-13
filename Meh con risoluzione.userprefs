@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\provamulti\Assets\QuizRacer\MenuPanels\InvitationEvents.cs">
+    <Files>
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\GameMenuEvents.cs" Line="82" Column="70" />
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\MainMenuEvents.cs" Line="1" Column="1" />
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\NavigationUtil.cs" Line="25" Column="5" />
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\PlayingEvents.cs" Line="1" Column="1" />
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\PanelMgr.cs" Line="1" Column="1" />
+      <File FileName="..\provamulti\Assets\QuizRacer\MenuPanels\InvitationEvents.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
